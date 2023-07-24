@@ -19,5 +19,5 @@ Check out my <a href="https://mandywebdev.com/index.html">portfolio</a> for live
     <img src="https://static-00.iconduck.com/assets.00/tailwind-icon-512x308-ienw2ldx.png" width="40" height="30">
     <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-black.svg" width="30" height="30">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968704.png" width="30" height="30">
-    <img src="https://static-00.iconduck.com/assets.00/adobe-creativecloud-icon-512x379-b0azq8jk.png" width="30" height="30">
+    <img src="https://static-00.iconduck.com/assets.00/adobe-creativecloud-icon-512x379-b0azq8jk.png" width="35" height="30">
 </div>
