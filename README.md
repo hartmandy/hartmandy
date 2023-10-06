@@ -2,7 +2,7 @@
 
 I'm a React Developer and Designer. 
 
-I specialize in creating user-focused and accessible websites. Leveraging a decade of experience in managing digital preservation projects and creating digital resources for museums and archives, I deliver solutions that are not only visually appealing but also user-friendly and sustainable. I'm also a PhD student in <a href="https://www.clemson.edu/cah/academics/history-and-geography/graduate/digital-history-phd/index.html#:~:text=Digital%20history%20utilizes%20computer%20technology,results%20over%20time%20and%20space.">Digital History</a> at Clemson University and the Executive Director of a non-profit that builds web apps for other non-profits ~ Check out <a href="https://www.visualarchives.org">Visual Archives</a>!
+I specialize in creating user-focused and accessible websites. Leveraging a decade of experience in managing digital preservation projects and creating digital resources for museums and archives, I deliver solutions that are not only visually appealing but also user-friendly and sustainable. I'm also the Executive Director of a non-profit that builds web apps for other non-profits ~ Check out <a href="https://www.visualarchives.org">Visual Archives</a>!
 
 I post everything I'm working on to my Github, both professional jobs and projects I'm experimenting with as I learn new frameworks.
 
