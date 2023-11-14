@@ -6,7 +6,7 @@ I specialize in creating user-focused and accessible websites. Leveraging a deca
 
 I post everything I'm working on to my Github, both professional jobs and projects I'm experimenting with as I learn new frameworks.
 
-Check out my <a href="[https://mandywebdev.com/index.html](https://www.linkedin.com/in/hartmandy)">Linkedin</a> for live versions of my projects - under projects, certificates, jobs, etc. 
+Check out my <a href="https://www.linkedin.com/in/hartmandy">Linkedin</a> for live versions of my projects - under projects, certificates, jobs, etc. 
 
 
 <div>
