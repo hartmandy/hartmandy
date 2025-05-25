@@ -5,5 +5,3 @@ I'm a frontend engineer at <a href="https://www.sportscardinvestor.com">Sports C
 🏫 Project I'm proud of: <a href="https://www.bmcyearbook.org">BMC Yearbook</a><br>
 🖼️ Fun fact: I worked in museum collections for a decade, digitizing and making digital resources<br>
 ✉️ Reach me at: mandyhartmandev@gmail.com
-
-![FJgESScqU_qVLfAU-ezgif com-video-to-gif-converter (2)](https://github.com/user-attachments/assets/b8f038dc-225b-4712-ba11-838794010fbf)
