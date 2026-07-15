@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<style>
+@font-face {
+  src: local("Consolas"), local("Consolas Bold");
+  font-family: "ConsolasFallback";
+  font-display: swap;
+  -webkit-size-adjust: 109%;
+  size-adjust: 109%;
+}
+.key { fill: #953800; }
+.value { fill: #0550ae; }
+.addColor { fill: #1a7f37; }
+.delColor { fill: #cf222e; }
+.cc { fill: #8c959f; }
+text, tspan { white-space: pre; }
+</style>
+<rect width="985px" height="530px" fill="#ffffff" rx="15"/>
+<text x="15" y="30" fill="#24292f" class="ascii">
+<tspan x="15" y="30">,,"",;li&gt;&gt;iI^.                       .'''`</tspan>
+<tspan x="15" y="50">Ii&lt;~_-???_&lt;;'                 .'^":li~+++_</tspan>
+<tspan x="15" y="70">vvuxf)-!:^'               '^,l&gt;~_?]}{1)(|\</tspan>
+<tspan x="15" y="90">xf\{-l      .^:;;;;::::I!&gt;+?{(\\/tjrnuvcXX</tspan>
+<tspan x="15" y="110">nxf|[&gt;,`'^:&lt;[\jrrfft////frnvzYUUUJCLQ00000</tspan>
+<tspan x="15" y="130">YYXzcunrrncYULQQQQLLLLLLQQQQQQQQQ000000OOO</tspan>
+<tspan x="15" y="150">wwwwwqqqwwmZO0QCUYXXXYYXXzvvvvvcXYUUUCLQQ0</tspan>
+<tspan x="15" y="170">mqpppppwmwmZZO00QLLCLLLCCJUJUUUUUUJJCLQQQQ</tspan>
+<tspan x="15" y="190">ZwqqqqqqqqqqwwmmmmZZZmwwwwmZO0QLCUYzcvccXY</tspan>
+<tspan x="15" y="210">LLLCJJJL0OZZZZZO0QLCCCCCCJUXzzXXYXzcvuvccX</tspan>
+<tspan x="15" y="230">zzzccvczYUJJJCLQ00OO00QLLJXcvvvvvvuvccnt||</tspan>
+<tspan x="15" y="250">[--__--]}1)|/fxuuvvvvvvnxjt/\||)}?_~&lt;&gt;l"``</tspan>
+<tspan x="15" y="270">:"^^^^``^:!&lt;+-][]+&gt;!iii!I,"^`^"^``. .`,;l&lt;</tspan>
+<tspan x="15" y="290">nrt/|)[?_?}{1}]?]1/jnctil+-]{\tjxvcXYLZmZw</tspan>
+<tspan x="15" y="310">ddbkbpwL0mwOJUYZ*B%fXMmmujmW&amp;W#MW&amp;8888%Wok</tspan>
+<tspan x="15" y="330">OmpbkbqQQwwph&amp;@$$$$a8%#opn}tO*%&amp;&amp;&amp;W&amp;&amp;&amp;&amp;Mbm</tspan>
+<tspan x="15" y="350">CC0ZmmCLUZo@$$@$$&amp;oakadwZZa}i(q@88&amp;&amp;&amp;&amp;&amp;*dZ</tspan>
+<tspan x="15" y="370">JUYYJCLCO&amp;$$@$$oZCJCQ0CUJCoBcf(Jbo#**ohdqZ</tspan>
+<tspan x="15" y="390">JYzzXUUC%$@@$BZzYXzXJJYcnfjbacL(Qkaakqm0Om</tspan>
+<tspan x="15" y="410">Ycnnuufm$@$$8ZLkM&amp;Wb0L0bhbwQ#JZQvkkkbpwmwq</tspan>
+<tspan x="15" y="430">UXcuxjY%@@$WLzZa*M&amp;oQud@@B%kWhJoumbbkkbdpw</tspan>
+<tspan x="15" y="450">LJYvnO@$$@$qrtjucJQJzfz0QCXrY%LpQUqpbhhbdp</tspan>
+<tspan x="15" y="470">Lct/Y8$@$@@knvucY0wQCUU0Jvf|tWkkoCmpwqpddd</tspan>
+<tspan x="15" y="490">1{[_\B$@$@8pvXUwkwCLZqZmdw0OZ8Mh%bCCUJQZmm</tspan>
+<tspan x="15" y="510">`"l~|w$@$@$knnrUwqujtfxZomCJq@8o$WcvuczXzX</tspan>
+</text>
+<text x="390" y="30" fill="#24292f">
+<tspan x="390" y="30">mandy@hartman</tspan> -———————————————————————————————————————————-—-
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">macOS, iOS</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">XX years, XX months, XX days</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">Shift AI</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">AI Engineer</tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Cursor, VS Code</tspan>
+<tspan x="390" y="150" class="cc">. </tspan>
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="key">.</tspan><tspan class="key">Programming</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">TypeScript, Python, JavaScript</tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="key">.</tspan><tspan class="key">Computer</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">HTML, CSS, JSON, YAML, Markdown</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="key">.</tspan><tspan class="key">Real</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">English</tspan>
+<tspan x="390" y="230" class="cc">. </tspan>
+<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan><tspan class="key">.</tspan><tspan class="key">Software</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">Building apps, Prompt engineering</tspan>
+<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan><tspan class="key">.</tspan><tspan class="key">Hardware</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Coffee gear, Desk setups</tspan>
+<tspan x="390" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
+<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Email</tspan><tspan class="key">.</tspan><tspan class="key">Personal</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">you@example.com</tspan>
+<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Website</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">virtu-studios.com</tspan>
+<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">hartmandy</tspan>
+<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">your-discord</tspan>
+<tspan x="390" y="450">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
+<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">59</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">XX</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">XX</tspan>
+<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">X,XXX</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">50</tspan>
+<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc">. </tspan><tspan class="value">XXX,XXX</tspan> ( <tspan class="addColor">XXX,XXX</tspan><tspan class="addColor">++</tspan>, <tspan class="delColor">XX,XXX</tspan><tspan class="delColor">--</tspan> )
+</text>
+</svg>
